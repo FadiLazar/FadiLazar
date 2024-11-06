@@ -13,7 +13,7 @@ I’m focused on expanding my IT knowledge, contributing to impactful projects, 
 
 ## 📫 Connect with Me
 - **Email**: [fadilaar13879@gmail.com](mailto:fadilaar13879@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](#)  <!-- Replace with your LinkedIn profile link -->
-- **GitHub**: [FadiLazar](https://github.com/YourUsername)  <!-- Replace with your GitHub username -->
+- **LinkedIn**: [https://www.linkedin.com/in/fadi-lazar-715b82320/](#)  
+- **GitHub**: [FadiLazar](https://github.com/FadiLazar)  
 
 Thanks for stopping by – let’s connect and collaborate on exciting projects!
